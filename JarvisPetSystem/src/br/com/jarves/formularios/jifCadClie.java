@@ -309,7 +309,7 @@ public class jifCadClie extends javax.swing.JInternalFrame {
         jPanel2.add(jLabel15);
         jLabel15.setBounds(70, 40, 80, 30);
         jPanel2.add(jdcNasc);
-        jdcNasc.setBounds(110, 140, 130, 20);
+        jdcNasc.setBounds(120, 150, 160, 20);
 
         jPanel1.add(jPanel2);
         jPanel2.setBounds(20, 10, 620, 490);
